@@ -5,7 +5,7 @@
 - 😃 Fun Facts: I'm a multi-instrumentalist 🎹 and can solve a rubics cube in under 25secs ⚡
 - 💡 I have a strong passion for learning and developing new skills
 
-After completing University, I decided to that I wanted to enter the Software industry. In my spare time, I self studied to gain the technical skills needed to apply for roles. I am now working at Xander Talent as a Software Engineer Consultant gaining more knowledge and experiance in Software. 
+After completing University, I decided that I wanted to enter the Software industry. In my spare time, I self studied to gain the technical skills needed to apply for roles. I am now working at Xander Talent as a Software Engineer Consultant gaining more knowledge and experiance in Software. 
 
 I now have a strong understanding and experience in a variety of programming languages, including Python, JavaScript, HTML, CSS, Java and C#. I have also worked with web development frameworks such as Django and React. 
 
