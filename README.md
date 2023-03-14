@@ -9,7 +9,7 @@ After completing University, I decided that I wanted to enter the Software indus
 
 I now have a strong understanding and experience in a variety of programming languages, including Python, JavaScript, HTML, CSS, Java and C#. I have also worked with web development frameworks such as Django and React. 
 
-I practice challenging mayself in everything I do, always aim for the best results. I see improvement as a must in whatever problem or solution I come across. Always seeking growth and development.
+I practice challenging myself in everything I do, always aim for the best results. I see improvement as a must in whatever problem or solution I come across. Always seeking growth and development.
 
 💬 Self Learning Resources Recommended:
 - Udemy: [Java MasterClass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
